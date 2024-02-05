@@ -26,6 +26,7 @@ module.exports = {
       release: {
         create: true,
         setCommits: {
+          
           auto: true,
         },
       },
